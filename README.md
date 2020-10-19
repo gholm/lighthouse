@@ -7,6 +7,8 @@
 *  Home
    *  [23 Mar 2020](https://gholm.github.io/lighthouse/gcpr/www.gcpr.net_2020-03-23_09-09-26.html) - Mobile
    *  [6 Oct 2020](https://gholm.github.io/lighthouse/gcpr/www.gcpr.net_2020-10-06_15-32-55.html) - Mobile
+   *  [19 Oct 2020](https://gholm.github.io/lighthouse/gcpr/www.gcpr.net_2020-10-19_19-12-32-m.html) -  Mobile
+   *  [19 Oct 2020](https://gholm.github.io/lighthouse/gcpr/www.gcpr.net_2020-10-19_19-09-16-d.html) -  Desktop
 *  B2B Tech
    *  [6 Oct 2020](https://gholm.github.io/lighthouse/gcpr/www.gcpr.net_2020-10-06_15-31-04.html) - Mobile
 *  PR Services 

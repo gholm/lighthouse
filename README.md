@@ -18,6 +18,8 @@
 **B2B Tech**
 
 *  [6 Oct 2020](https://gholm.github.io/lighthouse/gcpr/www.gcpr.net_2020-10-06_15-31-04.html) - Mobile
+*  [19 Oct 2020](https://gholm.github.io/lighthouse/gcpr/www.gcpr.net_2020-10-19_19-28-15-m.html) -  Mobile
+*  [19 Oct 2020](https://gholm.github.io/lighthouse/gcpr/www.gcpr.net_2020-10-19_19-26-25-d.html) -  Desktop
 
 
 

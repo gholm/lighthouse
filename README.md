@@ -41,6 +41,8 @@
 **Home** 
 
 * [29 Oct 2019](https://gholm.github.io/lighthouse/moorwand/www.moorwand.com_2019-10-29_13-11-53.html) - Mobile
+* [19 Oct 2020](https://gholm.github.io/lighthouse/moorwand/www.moorwand.com_2020-10-19_19-32-23-m.html) -  Mobile
+* [19 Oct 2020](https://gholm.github.io/lighthouse/moorwand/www.moorwand.com_2020-10-19_19-33-02-d.html) -  Desktop
 
 
 
@@ -62,3 +64,17 @@
 
 **Home**
 
+-  [19 Oct 2020](https://gholm.github.io/lighthouse/spreckley/www.spreckley.co.uk_2020-10-19_19-32-32-m.html) -  Mobile
+-  [19 Oct 2020](https://gholm.github.io/lighthouse/spreckley/www.spreckley.co.uk_2020-10-19_19-33-34-d.html) -  Desktop
+
+
+
+**B2B Tech**
+
+*  [19 Oct 2020](https://gholm.github.io/lighthouse/spreckley/www.spreckley.co.uk_2020-10-19_19-34-44-m.html) -  Mobile
+
+
+
+**Healthcare PR**
+
+*  [19 Oct 2020](https://gholm.github.io/lighthouse/spreckley/www.spreckley.co.uk_2020-10-19_19-37-12-m.html) -  Mobile

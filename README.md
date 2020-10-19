@@ -1,4 +1,4 @@
-[TOC]
+
 
 
 
@@ -22,8 +22,6 @@
 
 * Home [29 Oct 2019](https://gholm.github.io/lighthouse/moorwand/www.moorwand.com_2019-10-29_13-11-53.html)
 
-------
-
 
 
 
@@ -34,8 +32,6 @@
 *  Crisis Comms
    *  [14 Oct 2020](https://gholm.github.io/lighthouse/sapience/www.sapiencecommunications.co.uk_2020-Oct-14_14-20-39.html)
 
-------
-
 
 
 
@@ -43,6 +39,4 @@
 ## **Spreckley**
 
 *  Home
-
-------
 

@@ -57,6 +57,7 @@
 *  [6 Oct 2020](https://gholm.github.io/lighthouse/gcpr/www.gcpr.net_2020-10-06_15-08-41.html) - Mobile
 *  [19 Oct 2020](https://gholm.github.io/lighthouse/gcpr/www.gcpr.net_2020-10-19_19-17-14-m.html) -  Mobile
 *  [19 Oct 2020](https://gholm.github.io/lighthouse/gcpr/www.gcpr.net_2020-10-19_19-21-42-d.html) -  Desktop
+*  [19 Oct 2020](https://gholm.github.io/lighthouse/gcpr/www.gcpr.net-20201020T134234-services-m) -  Mobile
 
 
 

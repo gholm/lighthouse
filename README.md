@@ -58,11 +58,19 @@
 
 **Home**
 
+*  [20 Oct 2020](https://gholm.github.io/lighthouse/sapience/www.sapiencecommunications.co.uk_2020-10-20_09-09-06-m.html) - Mobile
+*  [20 Oct 2020](https://gholm.github.io/lighthouse/sapience/www.sapiencecommunications.co.uk_2020-10-20_09-09-06-d.html) - Desktop
+
 **Crisis Comms**
 
 *  [14 Oct 2020](https://gholm.github.io/lighthouse/sapience/www.sapiencecommunications.co.uk_2020-Oct-14_14-20-39.html) - Mobile
+*  [20 Oct 2020](https://gholm.github.io/lighthouse/sapience/sapiencecommunications.co.uk_crisi_2020-10-20_09-10-20-m.html) - Mobile
+*  [20 Oct 2020](https://gholm.github.io/lighthouse/sapience/sapiencecommunications.co.uk_crisi_2020-10-20_09-10-20-d.html) - Desktop
 
+**Financial**
 
+*  [20 Oct 2020](https://gholm.github.io/lighthouse/sapience/sapiencecommunications.co.uk_finance_2020-10-20_09-11-30-m.html) - Mobile
+*  [20 Oct 2020](https://gholm.github.io/lighthouse/sapience/sapiencecommunications.co.uk_finance_2020-10-20_09-11-30-d.html) - Desktop
 
 
 

@@ -80,7 +80,7 @@
 
 **Digital Banking**
 
-*  [9 Nov 2020](https://gholm.github.io/lighthouse/moorwand/www.moorwand.com_2020-11-09_digital-banking-m.html.html)
+*  [9 Nov 2020](https://gholm.github.io/lighthouse/moorwand/www.moorwand.com_2020-11-09_digital-banking-m.html)
 
 
 

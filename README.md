@@ -72,6 +72,15 @@
 * [29 Oct 2019](https://gholm.github.io/lighthouse/moorwand/www.moorwand.com_2019-10-29_13-11-53.html) - Mobile
 * [19 Oct 2020](https://gholm.github.io/lighthouse/moorwand/www.moorwand.com_2020-10-19_19-32-23-m.html) -  Mobile
 * [19 Oct 2020](https://gholm.github.io/lighthouse/moorwand/www.moorwand.com_2020-10-19_19-33-02-d.html) -  Desktop
+* [9 Nov 2020](https://gholm.github.io/lighthouse/moorwand/www.moorwand.com_2020-11-09-m.html) - Mobile
+
+**Solutions**
+
+*  [9 Nov 2020](https://gholm.github.io/lighthouse/moorwand/www.moorwand.com_2020-11-09_solutions-m.html)
+
+**Digital Banking**
+
+*  [9 Nov 2020](https://gholm.github.io/lighthouse/moorwand/www.moorwand.com_2020-11-09_digital-banking-m.html.html)
 
 
 
